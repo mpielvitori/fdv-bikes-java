@@ -1,4 +1,4 @@
-# Bikes rental excercise
+# Bikes rental exercise
 
 ![](https://img.shields.io/badge/java-v1.8.0_191-orange.svg) ![](https://img.shields.io/badge/maven-v3.3.9-orange.svg)
 
